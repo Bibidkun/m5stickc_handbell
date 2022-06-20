@@ -4,12 +4,11 @@
 Using two m5stickC, select a scale from the master and shake the slave to make a sound.
 The two units are linked using Bluetooth communication.
 
-# DEMO
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+<img src="https://user-images.githubusercontent.com/45535897/174513002-7e351c42-c715-4eba-8e24-08f1b619ad13.PNG" width="50%">
+<img src="https://user-images.githubusercontent.com/45535897/174513006-e757da33-ce72-4c73-8a72-51b67ceac1e6.PNG" width="50%">
 
 # Features
-The scale can be selected from m5 on the master side for Doremi from ~ Hz to ~ Hz.
-"hoge"のセールスポイントや差別化などを説明する
+The scale can be selected from m5 on the master side for scale from ~ Hz to ~ Hz.
 
 # Requirement
 device 
