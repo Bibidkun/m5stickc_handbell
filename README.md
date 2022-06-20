@@ -8,7 +8,7 @@ The two units are linked using Bluetooth communication.
 <img src="https://user-images.githubusercontent.com/45535897/174513006-e757da33-ce72-4c73-8a72-51b67ceac1e6.PNG" width="50%">
 
 # Features
-The scale can be selected from m5 on the master side for scale from ~ Hz to ~ Hz.
+The scale can be selected from m5 on the master side for scale from 523.251 Hz to 1046.502 Hz.
 
 # Requirement
 device 
@@ -32,7 +32,4 @@ Find the library from Platform IO.
 # Usage
 Import the master file and slave file into each of the two m5stickC.
 
-# Note
-
-注意点などがあれば書く
 
